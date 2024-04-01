@@ -1,0 +1,21 @@
+body{
+	background-color: lightgrey;
+}
+h1{font-size: 30px;
+	color: crimson;}
+h2{
+	font-size: 20px;
+	color: hotpink;
+}
+.big {
+	font-size: 40px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.big.uppercase{
+	color: yellow;
+}
+span{
+	color: violet;
+}
